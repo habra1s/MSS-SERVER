@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonForm.НастройкаPUSH" id="e605874b-9c92-48e1-bc7e-adef699e1946" configVersion="5f6b280f35071c43b75371734f484ab100000000"/>
+		<Metadata name="CommonForm.НастройкаPUSH.Form" id="e605874b-9c92-48e1-bc7e-adef699e1946.0" configVersion="b2a632753849eb45ac5b647c67269ca200000000"/>
+		<Metadata name="CommonModule.nsОбработкаОшибок" id="b8deba6d-ae56-4d97-861a-8afcbd932282" configVersion="b7bcba3fc5cd644a8e9c58abc40d0b3e00000000"/>
+		<Metadata name="CommonModule.nsОбработкаОшибок.Module" id="b8deba6d-ae56-4d97-861a-8afcbd932282.0" configVersion="cedca9caa80aa84cb2331e42c7a0c2ef00000000"/>
+		<Metadata name="CommonModule.nsОбщегоНазначения" id="2d413fe3-f312-476d-bb17-957341780f4c" configVersion="d6b41dd095a523498de3308b7275ed4e00000000"/>
+		<Metadata name="CommonModule.nsОбщегоНазначения.Module" id="2d413fe3-f312-476d-bb17-957341780f4c.0" configVersion="35692de2c937b4429c187a563689585800000000"/>
+		<Metadata name="CommonPicture.nsError" id="c8a7ea02-9d6c-4b10-87be-f04ee4717155" configVersion="cc8cebb5c34a724da47f7863cb50cf4d00000000"/>
+		<Metadata name="CommonPicture.nsError.Picture" id="c8a7ea02-9d6c-4b10-87be-f04ee4717155.0" configVersion="d5513fb4e6b7e54fa41e159af83ba49100000000"/>
+		<Metadata name="CommonPicture.nsPush" id="e0859f55-7061-4285-aa40-b59a05c4f3bb" configVersion="1de5818998412d4faeb26453b31ba7c500000000"/>
+		<Metadata name="CommonPicture.nsPush.Picture" id="e0859f55-7061-4285-aa40-b59a05c4f3bb.0" configVersion="99c5b25e18e64c46b8588a911fdf73fb00000000"/>
+		<Metadata name="CommonTemplate.nsКомпонентаПечатиQRКода" id="bb917d27-c660-40d6-bf40-c04b016030a6" configVersion="0b0883ff0288bf49aec095e93c8dd23d00000000"/>
+		<Metadata name="CommonTemplate.nsКомпонентаПечатиQRКода.Template" id="bb917d27-c660-40d6-bf40-c04b016030a6.0" configVersion="b4ce189db6739a41a7dbb49590b0992a00000000"/>
+		<Metadata name="Configuration.MobileSubsystemsServer" id="92b639a7-25b2-49d6-9075-8920e2f244c4" configVersion="38fb6871d8a9144888328229a4060e2700000000"/>
+		<Metadata name="Configuration.MobileSubsystemsServer.ClientApplicationInterface" id="1f051a97-5609-4318-b276-40d8e1a4f35b.b" configVersion="5e2c9a208f744a4587165d2517e584eb00000000"/>
+		<Metadata name="Configuration.MobileSubsystemsServer.MainSectionPicture" id="1f051a97-5609-4318-b276-40d8e1a4f35b.c" configVersion="18523332b3b03546a67ce9fa15f8f0c200000000"/>
+		<Metadata name="Constant.nsFCMИдентификаторОтправителя" id="456dcd36-88a7-46aa-a026-cbf6a5e84620" configVersion="785b991f07265d47ab0777a4c53eebae00000000"/>
+		<Metadata name="Constant.nsFCMИдентификаторОтправителя.ManagerModule" id="456dcd36-88a7-46aa-a026-cbf6a5e84620.1" configVersion="db917f4f2f3893439e1a5dab203ac0af00000000"/>
+		<Metadata name="Constant.nsFCMИдентификаторОтправителя.ValueManagerModule" id="456dcd36-88a7-46aa-a026-cbf6a5e84620.0" configVersion="2aeadf9d36629a4998fc48e2c288095e00000000"/>
+		<Metadata name="Constant.nsFCMКлючCервера" id="bb56d3fe-a955-4bf4-b594-0d20e0920940" configVersion="e2327f85a4c5b14e92bc49c4314d538a00000000"/>
+		<Metadata name="Constant.nsFCMКлючCервера.ManagerModule" id="bb56d3fe-a955-4bf4-b594-0d20e0920940.1" configVersion="58275461fb8391419048a8859a691e4600000000"/>
+		<Metadata name="Constant.nsFCMКлючCервера.ValueManagerModule" id="bb56d3fe-a955-4bf4-b594-0d20e0920940.0" configVersion="d4e536eb95b7464d988b026d5146b06d00000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства" id="6ce9d492-cf13-46bc-ac70-caa5634188dd" configVersion="481e19e4a9f0044f83610aeef9e6a2c500000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.Form.Форма" id="68144b3a-b00e-457f-95ed-3f932c87e84d" configVersion="71ac62f9d24f3c4db13b5a49fd7251b400000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.Form.Форма.Form" id="68144b3a-b00e-457f-95ed-3f932c87e84d.0" configVersion="59675093f25de64290d19174512dba7400000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.Form.Форма.Help" id="68144b3a-b00e-457f-95ed-3f932c87e84d.1" configVersion="7081b99feb74da4ea283543581340eda00000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.Help" id="6ce9d492-cf13-46bc-ac70-caa5634188dd.1" configVersion="f5126a0e3138d548a994a8f392aa166200000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.ManagerModule" id="6ce9d492-cf13-46bc-ac70-caa5634188dd.2" configVersion="9b06b16c3a36cd4b9358a6a53d91fbe500000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.ObjectModule" id="6ce9d492-cf13-46bc-ac70-caa5634188dd.0" configVersion="aa6bb4201192164289ef4cb82526195f00000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.Template.Макет" id="7211ef41-eaee-48c8-a68f-f19f3f702dfd" configVersion="c77b5a5b78f1f04f851220cc047db0f700000000"/>
+		<Metadata name="DataProcessor.nsПодключениеМобильногоУстройства.Template.Макет.Template" id="7211ef41-eaee-48c8-a68f-f19f3f702dfd.0" configVersion="e7b371e0ce4e3a4586b7d2423c27fdf000000000"/>
+		<Metadata name="Enum.nsМобильныеОС" id="711d3c06-dee2-4b2b-91dd-3a1c8dbcce4c" configVersion="b838c54c40a4ae4e8ad1785b5cf4287b00000000">
+			<Metadata name="Enum.nsМобильныеОС.EnumValue.Windows" id="6ad23b96-224d-436c-9482-701769cdc24d"/>
+			<Metadata name="Enum.nsМобильныеОС.EnumValue.iOS" id="b185dacd-ff2d-423a-adc3-83cfb04559ca"/>
+			<Metadata name="Enum.nsМобильныеОС.EnumValue.Android" id="d986beec-99f1-4dc7-9a71-d81501bfcd41"/>
+		</Metadata>
+		<Metadata name="Enum.nsМобильныеОС.ManagerModule" id="711d3c06-dee2-4b2b-91dd-3a1c8dbcce4c.0" configVersion="8a381e67f92a80429c4ae7d1fd9242af00000000"/>
+		<Metadata name="Enum.nsУровниЛога" id="ca114f3c-8f9a-46f4-9b73-1e8b744147a2" configVersion="fbd02fd163810e4981eb9cd9ba3f1d6800000000">
+			<Metadata name="Enum.nsУровниЛога.EnumValue.Ошибка" id="0e462ccb-4253-49ed-8b2f-f4aadde23508"/>
+			<Metadata name="Enum.nsУровниЛога.EnumValue.ОтветHTTP" id="16a4a084-c766-4448-bf25-fc5b9af88b84"/>
+			<Metadata name="Enum.nsУровниЛога.EnumValue.Информация" id="6fcf8a60-6170-4dda-be33-190ba0cb0762"/>
+			<Metadata name="Enum.nsУровниЛога.EnumValue.ЗапросHTTP" id="cf3310db-6f56-4060-804c-4ae890994fbb"/>
+		</Metadata>
+		<Metadata name="Enum.nsУровниЛога.ManagerModule" id="ca114f3c-8f9a-46f4-9b73-1e8b744147a2.0" configVersion="2305e6daddc5724a97e27d29003e45f000000000"/>
+		<Metadata name="InformationRegister.nsLog" id="13cfd091-0060-48ce-9c0f-882db230e21f" configVersion="0327e2e8888b4d44a4dd00eaba32738a00000000">
+			<Metadata name="InformationRegister.nsLog.Dimension.УровеньЛога" id="a8497655-7f28-464f-b365-67ed5651c649"/>
+			<Metadata name="InformationRegister.nsLog.Resource.Событие" id="b3cdfe6c-a422-4085-a91a-faeb23231dfd"/>
+			<Metadata name="InformationRegister.nsLog.Dimension.КонтекстОшибки" id="ea49e90e-7876-4686-affc-551ec5395d66"/>
+		</Metadata>
+		<Metadata name="InformationRegister.nsLog.Form.ФормаЗаписи" id="b6cc7c55-ac6d-4857-b0b2-551ab6498c48" configVersion="4034f7981c357248bbefb70c51145df600000000"/>
+		<Metadata name="InformationRegister.nsLog.Form.ФормаЗаписи.Form" id="b6cc7c55-ac6d-4857-b0b2-551ab6498c48.0" configVersion="181f021f6b2c204d8a4b2506756406df00000000"/>
+		<Metadata name="InformationRegister.nsLog.Form.ФормаЗаписи.Help" id="b6cc7c55-ac6d-4857-b0b2-551ab6498c48.1" configVersion="b7476b87df0daa4188a91b3d3221016300000000"/>
+		<Metadata name="InformationRegister.nsLog.Form.ФормаСписка" id="1af725c4-8bb6-4570-8a9c-61542aa34dac" configVersion="eb3d45f31fb59149bc3c548d87e986bd00000000"/>
+		<Metadata name="InformationRegister.nsLog.Form.ФормаСписка.Form" id="1af725c4-8bb6-4570-8a9c-61542aa34dac.0" configVersion="e7b08fd15fbdb24e896829f0cb35dfc400000000"/>
+		<Metadata name="InformationRegister.nsLog.Help" id="13cfd091-0060-48ce-9c0f-882db230e21f.0" configVersion="7d00cc61801eae4da07274b99f2dede400000000"/>
+		<Metadata name="InformationRegister.nsLog.ManagerModule" id="13cfd091-0060-48ce-9c0f-882db230e21f.2" configVersion="dea0ca5818cf6e4baaafba5a410e7b5d00000000"/>
+		<Metadata name="InformationRegister.nsLog.RecordSetModule" id="13cfd091-0060-48ce-9c0f-882db230e21f.1" configVersion="f9c7eba41fac4b4a8d453853b413c46b00000000"/>
+		<Metadata name="Language.Русский" id="c3f26413-ae80-47f2-992c-8b27aebbd447" configVersion="33d531f334a2ea4fa6ee0647e4b4c17f00000000"/>
+		<Metadata name="SessionParameter.nsМобильнаяОС" id="3d22fb6f-d6ed-4d6b-a160-fe8dbd1c1c93" configVersion="4e8ae18a1b363b48b4f79febf76bb85600000000"/>
+		<Metadata name="Subsystem.nsPUSH" id="950838a2-fb9b-4096-8aa1-02398fec554f" configVersion="72815128e3c2ee4a8b6b46d5570cc2f300000000"/>
+		<Metadata name="Subsystem.nsPUSH.CommandInterface" id="950838a2-fb9b-4096-8aa1-02398fec554f.1" configVersion="5bdd6fa0785bf94cb7f0e3bf6c09ab9f00000000"/>
+		<Metadata name="Subsystem.nsPUSH.Help" id="950838a2-fb9b-4096-8aa1-02398fec554f.0" configVersion="3fc2a68499bde24db3bc5dd48beda94c00000000"/>
+		<Metadata name="Subsystem.nsОбработкаОшибок" id="24fcdd25-14bb-43cd-b8c2-db746967b58f" configVersion="50b4d34b57364d42a59319e17dae33a200000000"/>
+		<Metadata name="Subsystem.nsОбработкаОшибок.CommandInterface" id="24fcdd25-14bb-43cd-b8c2-db746967b58f.1" configVersion="0ec3a7c7a5a9824ba8e9e4118ec1d3e400000000"/>
+		<Metadata name="Subsystem.nsОбработкаОшибок.Help" id="24fcdd25-14bb-43cd-b8c2-db746967b58f.0" configVersion="6f120fec24b876428e1c18242e8b4c5400000000"/>
+		<Metadata name="Subsystem.nsОбщегоНазначения" id="7e3038ee-e2da-4604-9eca-ec186b94132a" configVersion="3505657ea2a9cc418e3482fc55974d1400000000"/>
+		<Metadata name="Subsystem.nsОбщегоНазначения.CommandInterface" id="7e3038ee-e2da-4604-9eca-ec186b94132a.1" configVersion="907a4f681c77c14d862bca8d0bc7e34100000000"/>
+		<Metadata name="Subsystem.nsОбщегоНазначения.Help" id="7e3038ee-e2da-4604-9eca-ec186b94132a.0" configVersion="53c8b4f7f3d872408fc91b0f5daa21b000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
